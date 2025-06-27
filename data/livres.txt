@@ -1,0 +1,5 @@
+979;"1984";George Orwell;1949;Science-fiction / Dystopie;disponible
+229;Les Misérables;Victor Hugo;1862;Roman historique;emprunté
+208;L'Étranger;Albert Camus;1942;Roman philosophique;emprunté
+978;Le Horla;Guy de Maupassant;1887;Nouvelle fantastique;disponible
+89;Antigone;Jean Anouillah;1944;Roman;disponible
